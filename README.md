@@ -1,7 +1,7 @@
 # RU
 # Пасьянс «Косынка», или «Клондайк» — старинный карточный пасьянс.
 
-##Правила
+## Правила
 Играется одной колодой в 52 карты. Цель игры — разложить карты по мастям в порядке от туза до короля в четыре стопки (их иногда называют базовыми, или «домами»). 
 Карту можно перекладывать на другую рангом выше, но другого цвета (чёрного или красного). В каждую из четырёх базовых стопок (домов), по которым необходимо разложить все карты,
 сначала кладутся тузы, затем двойки, тройки и так далее до короля. Карты можно сдавать из оставшейся от раздачи колоды (в левом верхнем углу) либо по одной, либо по три штуки,
@@ -19,7 +19,7 @@ ____
 #ENG
 # Solitaire «Klondike», or «Klondike» - an old card solitaire.
 
-##Rules
+## Rules
 It is played with one deck of 52 cards. The object of the game is to arrange the cards by suit in order from ace to king in four piles (sometimes called basic or "houses").
 The card can be shifted to another one of higher rank, but of a different color (black or red). In each of the four basic piles (houses), in which all cards must be laid,
 first aces are put, then deuces, threes and so on up to the king.The cards can be dealt from the deck remaining from the deal (in the upper left corner) either one or three pieces,
